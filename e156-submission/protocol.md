@@ -4,14 +4,14 @@ author@example.com
 
 Protocol: Evidence Board: A Browser-Based Structured Note System for Systematic Review Screening
 
-This protocol describes the evidence synthesis for Evidence Board: A Browser-Based Structured Note System for, targeting reproducible estimation of Proportion of high-confidence notes in a versioned workflow. Eligible inputs include published studies and validated computational outputs addressing the target estimand, with no restrictions on publication year, language, or clinical domain. Searches will cover PubMed, Embase, and the Cochrane Central Register using structured strategies, reference-list screening, and duplicate review before extraction. The primary analysis will estimate Proportion of high-confidence notes using restricted maximum likelihood random-effects meta-analysis, reporting 95 percent confidence intervals, prediction intervals, and model checks. Heterogeneity will be summarised using I-squared and tau-squared, with sensitivity analyses across variance estimators, exclusion scenarios, and leave-one-out patterns. Analysis code will be versioned and archived at C:\HTML apps\evidence-board, and reporting will follow PRISMA 2020 guidance to support independent verification and reuse. Anticipated limitations include publication bias, clinical heterogeneity, sparse data in some settings, and the constraints of aggregate-level evidence synthesis.
+This protocol describes the evidence synthesis for Evidence Board: A Browser-Based Structured Note System for, targeting reproducible estimation of Proportion of high-confidence notes in a versioned workflow. Eligible inputs include published studies and validated computational outputs addressing the target estimand, with no restrictions on publication year, language, or clinical domain. Searches will cover PubMed, Embase, and the Cochrane Central Register using structured strategies, reference-list screening, and duplicate review before extraction. The primary analysis will estimate Proportion of high-confidence notes using restricted maximum likelihood random-effects meta-analysis, reporting 95 percent confidence intervals, prediction intervals, and prespecified model checks. Heterogeneity will be summarised using I-squared and tau-squared, with sensitivity analyses across variance estimators, exclusion scenarios, and leave-one-out patterns. Analysis code will be versioned and archived at https://github.com/mahmood726-cyber/evidence-board, and reporting will follow PRISMA 2020 guidance to support independent verification and reuse. Anticipated limitations include publication bias, clinical heterogeneity, sparse data in some settings, and the constraints of aggregate-level evidence synthesis.
 
 Outside Notes
 
 Type: protocol
 Primary estimand: Proportion of high-confidence notes
 App: Evidence Board v1.0
-Code: C:\HTML apps\evidence-board
+Code: https://github.com/mahmood726-cyber/evidence-board
 Date: 2026-03-28
 Validation: DRAFT
 
