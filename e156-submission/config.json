@@ -5,7 +5,7 @@
   "affiliation": "Tahir Heart Institute",
   "email": "mahmood.ahmad2@nhs.net",
   "date": "2026-03-28",
-  "path": "C:\\HTML apps\\evidence-board",
+  "path": "evidence-board",
   "type": "methods",
   "primary_estimand": "Proportion of high-confidence notes",
   "summary": "A browser-based evidence note board with confidence tagging, filtering, and JSON export for systematic review workflows.",
